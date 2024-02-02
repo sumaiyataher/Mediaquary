@@ -1,0 +1,9 @@
+.box{
+    height: 100vh;
+    background-color:#000;
+}
+
+.box h1{
+    font-size: 36px;
+    color: #fff;
+}
